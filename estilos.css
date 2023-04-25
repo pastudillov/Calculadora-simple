@@ -1,0 +1,10 @@
+* {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+div {
+    margin: 10px;
+}
